@@ -1,0 +1,1 @@
+the KMK folder contains a copy of the KMK firmware and the main.py for this hackpad
